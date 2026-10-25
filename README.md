@@ -15,7 +15,8 @@ Claude haftalık taslağı `yazilar/` klasörüne JSON olarak bırakır; sitedek
   "kategori": "danisan | meslektas | arastirma",
   "yayinda": false,
   "yayinTarihi": "",
-  "gorselUrl": ""
+  "gorselUrl": "",
+  "kontrol": "KONTROL NOTU ... (KONTROL.md biçiminde; panelde yazının üstünde görünür, sitede yayımlanmaz)"
 }
 ```
 
@@ -25,13 +26,20 @@ Claude haftalık taslağı `yazilar/` klasörüne JSON olarak bırakır; sitedek
 - `yayinTarihi` doluysa (örn. `2026-11-10`) yazı o gün otomatik yayına alınır.
 - Dosya silinirse sitedeki yazı silinmez; sitedeki kaydı panelden ya da e-postadaki bağlantıyla kaldırın.
 
+## Yazım ve kontrol
+- Üslup: `STIL.md` (İlker'in dili + konuşma iskeleti + hizmet dili + arama kuralları).
+- Konular: `KONULAR.md` (kategori sırası ve hedef aramalar).
+- Her taslak `KONTROL.md`'deki beş adımdan geçer: bilgi doğruluğu, alıntı doğrulaması,
+  İlker'e uygunluk, biçim. Sonuç `kontrol` alanına yazılır.
+
 ## Akış
 
 1. Her hafta Claude bir taslak hazırlar, buraya `yayinda: false` ile koyar ve sohbette sorar: "Yükleyeyim mi?"
 2. "Yükle" dendiğinde `yayinda: true` yapar. Alternatif: sitenin gönderdiği e-postadaki "Yayınla" bağlantısı.
 3. Sitedeki günlük görev yazıyı alır ve yayınlar.
 
-## Hosting tarafı (gizli depo için okuma anahtarı)
+## Hosting tarafı
+Depo herkese açık (public) olduğu sürece site anahtarsız okur. Depo gizliye çevrilirse okuma anahtarı gerekir:
 
 GitHub > Settings > Developer settings > Personal access tokens > Fine-grained tokens > Generate new token:
 Repository access: Only select repositories > `site-yazilar`; Permissions: Contents > Read-only.
