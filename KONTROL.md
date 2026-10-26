@@ -45,7 +45,7 @@ Yazı STIL.md'ye karşı okunur; her madde için evet/hayır:
 Uymayan yer düzeltilir; düzeltilemiyorsa cümle çıkarılır.
 
 ## Adım 5: Biçim ve arama
-Başlık uzunluğu, özet uzunluğu, hedef ifadenin yeri, ara başlık sayısı (en fazla bir H2, H3 yok, kalın başlıkçık ve liste yok, SSS yok), iç bağlantılar
+Başlık uzunluğu, özet uzunluğu, hedef ifadenin yeri, ara başlık sayısı (en fazla bir H2, H3 yok, kalın başlıkçık ve liste yok, SSS yok), kapak görseli (STIL.md 7: palet, yüz ve yazı yok, klişe yok, gorselUrl dolu ve açılıyor), iç bağlantılar
 (/kabul-ve-kararlilik-terapisi ve en az bir iç sayfa), dış bağlantıların yalnızca kaynak
 olması, kelime sayısı (800-1200).
 

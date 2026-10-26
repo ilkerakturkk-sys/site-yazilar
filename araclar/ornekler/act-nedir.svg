@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eef2ea"/><stop offset="1" stop-color="#f6efe1"/></linearGradient></defs>
+<rect width="1400" height="900" fill="url(#bg)"/>
+<path d="M700 900 C 700 800 690 720 700 640" stroke="#587a66" stroke-width="16" fill="none"/>
+<ellipse cx="640" cy="760" rx="60" ry="24" fill="#7fa08b" transform="rotate(-25 640 760)"/>
+<g transform="translate(700 420)"><ellipse cx="0" cy="-130" rx="74" ry="120" fill="#a8c4b1" transform="rotate(0)" opacity=".92"/><ellipse cx="0" cy="-130" rx="74" ry="120" fill="#d9a79f" transform="rotate(60)" opacity=".92"/><ellipse cx="0" cy="-130" rx="74" ry="120" fill="#e8c98f" transform="rotate(120)" opacity=".92"/><ellipse cx="0" cy="-130" rx="74" ry="120" fill="#9aa7b4" transform="rotate(180)" opacity=".92"/><ellipse cx="0" cy="-130" rx="74" ry="120" fill="#7fa08b" transform="rotate(240)" opacity=".92"/><ellipse cx="0" cy="-130" rx="74" ry="120" fill="#c9b6d6" transform="rotate(300)" opacity=".92"/>
+<circle r="72" fill="#fbf7ee"/><circle r="40" fill="#e8c98f"/></g></svg>

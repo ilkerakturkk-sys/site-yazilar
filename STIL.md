@@ -79,3 +79,24 @@ Dinç'ten alınan diğer araçlar:
 - Alıntı yalnızca birebir metni ve sahibi doğrulanmışsa kullanılır. "Şöyle bir söz vardır"
   diye kaynaksız alıntı kullanılmaz; doğrulanamayan alıntı silinir, yumuşatılarak tutulmaz.
 - Russ Harris, Steven Hayes, Kelly Wilson gibi isimlere atfedilen sözler de aynı kurala tabidir.
+
+## 7. Kapak görseli (her yazıda zorunlu, İlker'in onayıyla)
+Sitedeki bütün yazı görselleri aynı üsluptadır: düz renk katmanlarıyla çizilmiş sakin, simgesel
+bir sahne. Örnekler: araclar/ornekler/*.svg (kaygi, yasantisallik, otobus, parmak, act-nedir,
+yolculuk, metaforlar).
+- Sahne yazının ana metaforunu ya da duygusunu tek bir nesne ya da manzarayla anlatır
+  (halat, yol, pencere, ağaç, kitap, otobüs, çiçek). Tek odak, bol boşluk.
+- Yalnızca palet renkleri: {sage} {sage2} {deep} {ink} {sand} {rope} {rope2} {slate} {rose}
+  {cream} {lilac}. Gölge, doku, fotoğraf, gradyan efekti yok (arka plan gradyanı hariç).
+- İnsan yüzü, yazı, logo, tanınan karakter yok. Terapi odası, koltukta iki kişi, beyin,
+  ağlayan figür gibi klişeler yok. Kişi gerekiyorsa yalnızca uzaktan, yüzsüz silüet.
+- Üretim: sahnenin iç öğelerini bir dosyaya yaz, sonra
+  `python3 araclar/gorsel.py --sahne sahne.svg --cikti yazilar/gorseller/<dosya-adı>-v1.webp`
+  (gerekirse --gunes yok, --tepesiz). Görseli açıp kendin bak: ortalı mı, kesilen öğe var mı,
+  sahne yazıyla uyumlu mu? Sonra taslak JSON'da gorselUrl alanına
+  `https://raw.githubusercontent.com/ilkerakturkk-sys/site-yazilar/main/yazilar/gorseller/<dosya-adı>-v1.webp`
+  yaz.
+- Onay: görseli yazıyla birlikte İlker'e göster (görsel bağlantısını ver; sohbet resim
+  gösterebiliyorsa resmi de ekle) ve ne anlattığını tek cümleyle söyle. "Resmi değiştir"
+  derse yeni sahneyi -v2, -v3 adıyla üret ve gorselUrl'i güncelle (eski dosyayı silme;
+  site yalnızca adres değişince yeni görseli alır).
