@@ -36,8 +36,11 @@ Dinç'ten alınan diğer araçlar:
 - Kısa, ritmik cümleler yer yer: "Var ama yok. Odada ama orada değil." Dozunda.
 - Sohbet kıvamı veren bağlaçlar: hakikaten, esasında, nitekim, hâlbuki, dolayısıyla.
   Bir paragrafta en fazla bir tane.
-- Paradoks taşıyan ara başlıklar olabilir ("Kaçtıkça Büyüyen Şey") ama hedef aramayı
-  taşıyan düz bir H2 de mutlaka bulunur.
+- Yazı bir insanın yazdığı deneme gibi akar, yapılandırılmış rapor gibi değil. En fazla bir
+  ara başlık (H2) kullanılır, hiç olmaması da olur; H3 kullanılmaz. Paragraflar kalın yazılmış
+  başlıkçıklarla ("Yer açmak.") başlamaz; madde işaretli liste kullanılmaz. Geçişler cümleyle
+  yapılır: "Peki bu çaba neden işe yaramıyor?", "İlki yer açmak."
+- "Sık sorulan sorular" bölümü EKLENMEZ.
 - Halk deyimi ve atasözü yalnızca gerçekten yerine oturuyorsa, yazıda en fazla bir tane.
 - Manevi ve kültürel köprü (sabır, teslimiyet gibi kavramlar) site yazılarında varsayılan
   olarak kullanılmaz; konu doğrudan gerektiriyorsa ölçülü ve vaaz etmeden.
@@ -56,17 +59,16 @@ Dinç'ten alınan diğer araçlar:
   "psikoterapi", "tedavi", "seans", "hasta", "klinik", "iyileştirme", "şifa" KULLANILMAZ.
   Yerine: "danışmanlık", "görüşme", "bireysel ve çift danışmanlığı", "grup danışmanlığı",
   "danışan", "çalışma", "süpervizyon", "eğitim".
-- Unvan: "sosyal hizmet uzmanı" ve "ACT süpervizörü". "ACT terapisti", "psikoterapist" yazılmaz.
+- Unvan yalnızca "sosyal hizmet uzmanı". "ACT süpervizörü", "ACT terapisti", "psikoterapist" yazılmaz.
 - "Kabul ve Kararlılık Terapisi (ACT)" modelin adı olarak kullanılabilir; yazı modeli anlatır,
   hizmet vaat etmez. "ACT temelli danışmanlık" denir; "ACT terapisi uyguluyorum" denmez.
 - Araştırma özetlerinde "tedavi" yalnızca çalışmanın kendi konusuysa (örn. madde kullanımı
   tedavisi) ve çalışmanın diliyle kullanılır.
 
 ## 5. Biçim ve arama motoru
-- Uzunluk 800-1200 kelime; başlık + 1-2 cümlelik özet + 4-7 paragraf; en az bir H2.
+- Uzunluk 700-1100 kelime; başlık + 1-2 cümlelik özet + düz akan paragraflar; en fazla bir H2, H3 yok.
 - Başlık 60 karakteri aşmaz, hedef ifadeyi içerir; özet (meta açıklama) 120-155 karakter.
 - İlk 100 kelimede hedef ifade bir kez geçer; zorlama tekrar yok.
-- Uygunsa sonda 2-3 soruluk kısa "Sık sorulan sorular" (H2 + H3 sorular).
 - İç bağlantılar: /kabul-ve-kararlilik-terapisi (her yazıda), artı /danismanlik,
   /supervizyon-ve-egitim, /arastirma ya da ilgili bir yazı. Bağlantı metni anlamlı olsun.
 - Dış bağlantı yalnızca kaynak göstermek için (DOI, dergi sayfası).

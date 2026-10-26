@@ -45,9 +45,9 @@ Yazı STIL.md'ye karşı okunur; her madde için evet/hayır:
 Uymayan yer düzeltilir; düzeltilemiyorsa cümle çıkarılır.
 
 ## Adım 5: Biçim ve arama
-Başlık uzunluğu, özet uzunluğu, hedef ifadenin yeri, H2 varlığı, iç bağlantılar
+Başlık uzunluğu, özet uzunluğu, hedef ifadenin yeri, ara başlık sayısı (en fazla bir H2, H3 yok, kalın başlıkçık ve liste yok, SSS yok), iç bağlantılar
 (/kabul-ve-kararlilik-terapisi ve en az bir iç sayfa), dış bağlantıların yalnızca kaynak
-olması, kelime sayısı (800-1200). SSS varsa soruların gerçek arama soruları olması.
+olması, kelime sayısı (800-1200).
 
 ## Kontrol notu biçimi (taslak dosyasındaki `kontrol` alanı)
 ```
@@ -63,7 +63,7 @@ Kategori: danisan | Hedef arama: "..."
 - Hizmet dili: temiz | Unvan: doğru | Tanı/vaat/danışan: yok | Metafor sayısı: 1 | Uzun tire: yok
 - Düzeltilen yerler: ...
 4) Biçim
-- Başlık 54 karakter | Özet 142 karakter | 960 kelime | H2: 2 | İç bağlantı: 3 | SSS: 3 soru
+- Başlık 54 karakter | Özet 142 karakter | 960 kelime | H2: 1 | İç bağlantı: 3
 Kaynaklar: (liste)
 İlker'in bakması gereken yerler: (varsa, en fazla 3 madde)
 ```
