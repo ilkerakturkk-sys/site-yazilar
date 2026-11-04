@@ -8,6 +8,7 @@ Ses İlker'in sesidir; Dinç'ten alınan şey ses değil, iskelettir.
 - Birinci tekil. Sade, pratik, "oturaklı". Okuyana yukarıdan değil yanından konuşur.
 - Kısa ve yüklemli cümleler. İki nokta sonrası yüklemsiz liste cümleleri kurulmaz.
 - Uzun tire (—) yok. Kesme işaretiyle oynanmaz, gereksiz vurgu (kalın, ünlem) yok.
+- "ACT" ekleri "Ekt" okunuşuna göre çekimlenir: ACT'in (ACT'nin değil), ACT'i, ACT'e, ACT'te, ACT'ten, ACT'le. Bu kural başlık, özet ve metnin tamamı için geçerlidir.
 - Metafor azdır ve yerindedir: bir yazıda en fazla bir ya da iki metafor, ikisi de aynı
   mekanizmayı açıklamak için. Metafor yığını ve egzersiz listesi "stile aykırı".
 - Terimler: mindfulness için "kendindelik"; "Kabul ve Kararlılık Terapisi (ACT)"; "yaşantısal

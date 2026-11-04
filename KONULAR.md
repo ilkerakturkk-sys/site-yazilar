@@ -30,7 +30,7 @@ ilgili en az bir iç sayfaya (/danismanlik, /supervizyon-ve-egitim, /arastirma, 
 - Bağımlılıkta değer çalışmasının zamanlaması (act bağımlılık)
 - Çift danışmanlığında bireysel görüşmelerin yeri (act çift)
 - ESM / günlük kayıtların uygulamada kullanımı (deneyim örnekleme yöntemi)
-- ACT'de metafor kullanımında ölçü: az ve yerinde (act metaforları)
+- ACT'te metafor kullanımında ölçü: az ve yerinde (act metaforları)
 - İlişkisel Çerçeve Kuramı uygulayıcı için ne anlama gelir (ilişkisel çerçeve kuramı)
 - ACT eğitimi ve süpervizyonu nasıl seçilir (act eğitimi)
 

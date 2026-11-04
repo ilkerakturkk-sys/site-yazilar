@@ -35,10 +35,11 @@ Nota yazılır: alıntı → kaynak → doğrulandı / çıkarıldı.
 Yazı STIL.md'ye karşı okunur; her madde için evet/hayır:
 - Hizmet dili: terapi, terapist, psikoterapi, tedavi, seans, hasta, klinik, iyileştirme, şifa
   sözcükleri İlker'in kendi çalışması için kullanılmış mı? (Hiçbiri olmamalı.)
-- Unvan doğru mu (sosyal hizmet uzmanı, ACT süpervizörü)?
+- Unvan doğru mu (yalnızca "sosyal hizmet uzmanı"; "ACT süpervizörü" yazılmaz)?
 - Tanı, tedavi vaadi, danışan örneği, aile ya da özel hayat bilgisi var mı? (Olmamalı.)
 - Ton: birinci tekil, oturaklı, yanında konuşan; en fazla iki metafor; soru yığını yok.
-- Dil: uzun tire yok; yüklemsiz liste cümlesi yok; "kendindelik" kullanılmış; terimler doğru.
+- Dil: uzun tire yok; yüklemsiz liste cümlesi yok; "kendindelik" kullanılmış; terimler doğru;
+  "ACT" ekleri "Ekt" okunuşuna göre (ACT'in, ACT'te; "ACT'nin", "ACT'de" yok).
 - Kuramsal tutarlılık: davranış işlev sorusuyla okunmuş mu, "irade" dili sızmış mı?
 - İlker'in kendi görüşüne aykırı bir iddia var mı? (Örneğin "ACT her sorunu çözer" gibi.)
 - İlker hakkında yazılan her olgu /profile.md ya da sitedeki Hakkımda sayfasıyla uyuşuyor mu?
