@@ -19,13 +19,18 @@ Ses İlker'in sesidir; Dinç'ten alınan şey ses değil, iskelettir.
   "İrade zayıflığı", "karakter sorunu", "hastalıklı kişilik" gibi açıklamalar kullanılmaz.
 - Kesin konuşmaz: "her zaman", "kesinlikle", "bilimsel olarak kanıtlanmıştır" yok. "Çoğu
   zaman", "sık görülür", "bulgular şunu gösteriyor" gibi ölçülü ifadeler.
-- Tanı koymaz, tedavi vaat etmez, danışan anlatmaz. Örnekler genel ve anonimdir ("bir kişi
-  düşünün", "diyelim ki").
+- Tanı koymaz, tedavi vaat etmez, danışan anlatmaz. Örnekler genel ve anonimdir ("diyelim
+  ki", "bazen biri..."); "bir kişi düşünün" kalıbı kullanılmaz (bkz. 2. bölüm, 1. adım).
 
 ## 2. Konuşma iskeleti (Dinç mimarisi, İlker sesiyle)
 Her yazı şu omurgayı izler; adımlar başlık olarak yazılmaz, akışta hissedilir:
-1. Somut bir sahneyle aç. Gündelik, tanıdık, iki üç cümlelik bir an. "Akşam oldu, telefon
-   elde, bir mesaj daha." Gerçek ve bugünden; dramatize edilmez.
+1. Somut bir girişle aç. Bu bir sahne, bir araştırma bulgusu, gündelik bir gözlem ya da
+   doğrudan bir soru olabilir; açılış yazıdan yazıya değişir. Yazı "Bir kişi düşünün",
+   "Bir uygulayıcı düşünün", "...düşünün", "Şöyle bir sahne" gibi davet kalıplarıyla
+   AÇILMAZ. Okura hitap eden kurgusal sahne arka arkaya iki yazıda kullanılmaz; yazmadan
+   önce yazilar/ klasöründeki son yazıların açılışına bakılır. Sahne seçilirse gündelik,
+   tanıdık, iki üç cümlelik bir an olur: "Akşam oldu, telefon elde, bir mesaj daha."
+   Gerçek ve bugünden; dramatize edilmez.
 2. Mekanizmayı tek bir sade metaforla anlat. Jargonla değil; metafordan sonra terimi ver.
 3. Deneyimi normalleştir. "Bu insani bir şey." Utandırmadan, suçlamadan.
 4. Failliği geri ver. Küçük, bugün yapılabilir bir iki adım. Reçete değil, davet.
@@ -51,7 +56,9 @@ Dinç'ten alınan diğer araçlar:
 - Danışanlara yönelik yazılar: ikinci tekil ("sen") yerine "siz" ya da genel özne; sahne
   ağırlıklı, terim az, bir mekanizma, iki adım.
 - Meslektaş yazıları: terim serbest, kaynak bekleriz; sahne yerine kısa bir uygulama anı
-  (anonim, kurgusal "uygulayıcı" örneği); süpervizyon gözüyle yazılır.
+  (anonim, kurgusal "uygulayıcı" örneği) kullanılabilir ama "Bir uygulayıcı düşünün"
+  diye açılmaz; uygulama anı gerekiyorsa metnin içinde, kalıpsız verilir. Süpervizyon
+  gözüyle yazılır.
 - Araştırma özetleri: yalnızca yayımlanmış bulgular; yöntem, örneklem, bulgu, sınırlılık,
   uygulamaya not. Dergi, yıl, yazar ve DOI doğru. Yorum bulgudan ayrı tutulur.
 
